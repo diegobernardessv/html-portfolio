@@ -1,2 +1,2 @@
-# html-portfolio
+# html_portfolio
 HTML Projects
